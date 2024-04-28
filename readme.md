@@ -11,7 +11,7 @@ The data model consists of:
 
 ## Proposed Workflow
 
-A suggested solution to the task could follow these steps:
+A suggested solution to the task could follow these steps
 
 1. The user selects a company.
 2. The user is presented with a list of series for the selected company.
