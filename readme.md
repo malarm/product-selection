@@ -20,10 +20,4 @@ A suggested solution to the task could follow these steps:
 5. The user selects a product.
 6. The User presses and OK button, and the selected product is displayed.
 
-Built on:
 
-react
-
-typescript
-
-tailwind CSS
