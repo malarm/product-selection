@@ -19,3 +19,11 @@ A suggested solution to the task could follow these steps:
 4. The user is presented with a list of products in the selected series.
 5. The user selects a product.
 6. The User presses and OK button, and the selected product is displayed.
+
+Built on:
+
+react
+
+typescript
+
+tailwind CSS
